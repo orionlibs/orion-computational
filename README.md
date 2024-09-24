@@ -1,2 +1,2 @@
-# project-name
-A description
+Orion Computational
+Java implementation of computational mathematics/science/engineering algorithms

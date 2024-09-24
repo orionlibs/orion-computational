@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.orionlibs</groupId>
-    <artifactId>project-name</artifactId>
+    <artifactId>orion-computational</artifactId>
     <version>0.0.1</version>
-    <name>name</name>
-    <description>description</description>
-    <url>https://github.com/orionlibs/project-name</url>
+    <name>Orion Computational</name>
+    <description>Java implementation of computational mathematics/science/engineering algorithms</description>
+    <url>https://github.com/orionlibs/orion-computational</url>
     
     
     <properties>
@@ -17,9 +17,9 @@
 
 
     <scm>
-        <url>https://github.com/orionlibs/project-name</url>
-        <connection>scm:git:https://github.com/orionlibs/project-name.git</connection>
-        <developerConnection>scm:git:ssh://github.com/orionlibs/project-name.git</developerConnection>
+        <url>https://github.com/orionlibs/orion-computational</url>
+        <connection>scm:git:https://github.com/orionlibs/orion-computational.git</connection>
+        <developerConnection>scm:git:ssh://github.com/orionlibs/orion-computational.git</developerConnection>
     </scm>
 
 
@@ -239,13 +239,6 @@
 
 
     <dependencies>
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <version>1.18.32</version>
-        </dependency>
-
-
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter</artifactId>
